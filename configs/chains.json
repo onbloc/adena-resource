@@ -1,0 +1,30 @@
+{
+    "test2": {
+        "chainId": "test2",
+        "chainName": "Testnet 2",
+        "addressPrefix": "g1",
+        "rpcUrl": "https://rpc.test2.gno.land",
+        "gnoUrl": "https://test2.gno.land",
+        "apiUrl": "https://api.adena.app",
+        "token": {
+            "denom": "gnot",
+            "unit": 1,
+            "minimalDenom": "ugnot",
+            "minimalUnit": 0.000001
+        }
+    },
+    "test3": {
+        "chainId": "test3",
+        "chainName": "Testnet 3",
+        "addressPrefix": "g1",
+        "rpcUrl": "https://rpc.test3.gno.land",
+        "gnoUrl": "https://rpc.test3.gno.land",
+        "apiUrl": "https://api.adena.app",
+        "token": {
+            "denom": "gnot",
+            "unit": 1,
+            "minimalDenom": "ugnot",
+            "minimalUnit": 0.000001
+        }
+    }
+}
