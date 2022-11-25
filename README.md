@@ -18,6 +18,7 @@ Follow the steps in order to add a token to this list.
 	- An entry in the `tokens.json` file that matches the following format 👇
 
 ```jsonc
+//token symbol in capital letters (ex: GNOT)
 string: {
 	//token symbol in capital letters (ex: GNOT)
 	"type": string,
