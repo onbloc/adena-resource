@@ -16,8 +16,7 @@ Follow the steps in order to add a token to this list.
 
 	- A 16x16 Token Image in **token_symbol.svg** format (ex: **gnot.svg**) in the [/images/token](https://github.com/onbloc/adena-resource/tree/main/images/token) folder.
 	- An entry in the `tokens.json` file that matches the following format 👇
-	
-```json
+
 //token symbol in capital letters (ex: GNOT)
 string: {
 	//token symbol in capital letters (ex: GNOT)
