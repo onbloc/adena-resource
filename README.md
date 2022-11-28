@@ -46,7 +46,11 @@ Although we're managing this list for Adena's prodcuts, we welcome anyone in the
 
 ## Disclaimer
 The Adena Team ("we") allows anyone to submit information about any tokens.
+
 Although we throughly review the submissions, we do not gurantee the integrity of tokens on this list.
-The approval of a submission is not an endorsement or nor an investment advice of the asset.
+
+The approval of a submission is not an endorsement nor an investment advice of the asset.
+
 In no event shall the Adena Team be liable for your damages resulting from investments in assets included in this repository.
+
 The Adena Team reserves the right to reject or remove token submissions at any time at our sole discretion.
