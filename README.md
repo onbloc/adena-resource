@@ -15,11 +15,11 @@ Follow the steps in order to add a token to this list.
 4.  Commit changes to the branch that includes the following:
 
 	- A 16x16 Token Image in **token_symbol.svg** format (ex: **gnot.svg**) in the [/images/token](https://github.com/onbloc/adena-resource/tree/main/images/token) folder.
-	- An entry in the `tokens.json` file that matches the following format
+	- An entry in the `tokens.json` file that matches the following format.
 
 ```jsonc
 //token symbol in capital letters (ex: GNOT)
-string: {
+[TOKEN_SYMBOL: string]: {
 	//token symbol in capital letters (ex: GNOT)
 	"type": string,
 	//token name (ex: Gnoland)
