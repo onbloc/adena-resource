@@ -15,9 +15,9 @@ Follow the steps in order to add a project to this list.
 2.  Clone the project to your device.
 3.  Create a branch locally with a clear, descriptive name.
 4.  Commit changes to the branch that includes the following:
-	- Tokens
-		- A 120x120 token logo image in **token_symbol.svg** format (ex: **gnot.svg**) in the [/images/tokens](https://github.com/onbloc/adena-resource/tree/main/images/tokens) folder.
-		- An entry in the `tokens.json` file that matches the following format.
+- Tokens
+	- A 120x120 token logo image in **token_symbol.svg** format (ex: **gnot.svg**) in the [/images/tokens](https://github.com/onbloc/adena-resource/tree/main/images/tokens) folder.
+	- An entry in the `tokens.json` file that matches the following format.
 
 ```jsonc
 //token symbol in capital letters (ex: GNOT)
@@ -39,9 +39,9 @@ Follow the steps in order to add a project to this list.
 	//**REMOVE ALL COMMENTS BEFORE THE ACTUAL PR**
 }
 ```
-	- Apps
-		- A 34x34 app logo image in **project_name.svg** format (ex: **gnoscan.svg**) in the [/images/apps](https://github.com/onbloc/adena-resource/tree/main/images/apps) folder.
-		- An entry in the `apps.json` file that matches the following format.
+- Apps
+	- A 34x34 app logo image in **project_name.svg** format (ex: **gnoscan.svg**) in the [/images/apps](https://github.com/onbloc/adena-resource/tree/main/images/apps) folder.
+	- An entry in the `apps.json` file that matches the following format.
 
 ```jsonc
 {
