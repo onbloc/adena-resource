@@ -7,8 +7,8 @@
         "networks": [
             {
                 "main": true,
-                "chainId": "test3",
-                "chainName": "Testnet 3",
+                "networkId": "test3",
+                "networkName": "Testnet 3",
                 "addressPrefix": "g1",
                 "rpcUrl": "https://rpc.test3.gno.land",
                 "gnoUrl": "https://rpc.test3.gno.land",
@@ -23,8 +23,8 @@
             },
             {
                 "main": false,
-                "chainId": "test2",
-                "chainName": "Testnet 2",
+                "networkId": "test2",
+                "networkName": "Testnet 2",
                 "addressPrefix": "g1",
                 "rpcUrl": "https://rpc.test2.gno.land",
                 "gnoUrl": "https://test2.gno.land",
