@@ -1,32 +1,58 @@
-{
-    "test2": {
-        "chainId": "test2",
-        "chainName": "Testnet 2",
-        "addressPrefix": "g1",
-        "rpcUrl": "https://rpc.test2.gno.land",
-        "gnoUrl": "https://test2.gno.land",
-        "apiUrl": "https://api.adena.app",
-        "linkUrl": "https://test2.gnoscan.io",
-        "token": {
-            "denom": "gnot",
-            "unit": 1,
-            "minimalDenom": "ugnot",
-            "minimalUnit": 0.000001
-        }
-    },
-    "test3": {
-        "chainId": "test3",
-        "chainName": "Testnet 3",
-        "addressPrefix": "g1",
-        "rpcUrl": "https://rpc.test3.gno.land",
-        "gnoUrl": "https://rpc.test3.gno.land",
-        "apiUrl": "https://api.adena.app",
-        "linkUrl": "https://gnoscan.io",
-        "token": {
-            "denom": "gnot",
-            "unit": 1,
-            "minimalDenom": "ugnot",
-            "minimalUnit": 0.000001
-        }
+[
+    {
+        "main": true,
+        "chainId": "GNOLAND",
+        "chainName": "GNO.LAND",
+        "order": 1,
+        "networks": [
+            {
+                "main": true,
+                "networkId": "test3",
+                "networkName": "Testnet 3",
+                "addressPrefix": "g1",
+                "rpcUrl": "https://rpc.test3.gno.land",
+                "gnoUrl": "https://rpc.test3.gno.land",
+                "apiUrl": "https://api.adena.app",
+                "linkUrl": "https://gnoscan.io",
+                "token": {
+                    "denom": "gnot",
+                    "unit": 1,
+                    "minimalDenom": "ugnot",
+                    "minimalUnit": 0.000001
+                }
+            },
+            {
+                "main": false,
+                "networkId": "test2",
+                "networkName": "Testnet 2",
+                "addressPrefix": "g1",
+                "rpcUrl": "https://rpc.test2.gno.land",
+                "gnoUrl": "https://test2.gno.land",
+                "apiUrl": "https://api.adena.app",
+                "linkUrl": "https://test2.gnoscan.io",
+                "token": {
+                    "denom": "gnot",
+                    "unit": 1,
+                    "minimalDenom": "ugnot",
+                    "minimalUnit": 0.000001
+                }
+            },
+            {
+                "main": false,
+                "networkId": "dev",
+                "networkName": "Local",
+                "addressPrefix": "g1",
+                "rpcUrl": "http://127.0.0.1:26657",
+                "gnoUrl": "http://127.0.0.1:8888",
+                "apiUrl": "http://127.0.0.1:8080",
+                "linkUrl": "http://127.0.0.1:80",
+                "token": {
+                    "denom": "gnot",
+                    "unit": 1,
+                    "minimalDenom": "ugnot",
+                    "minimalUnit": 0.000001
+                }
+            }
+        ]
     }
-}
+]
