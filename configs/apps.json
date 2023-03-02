@@ -3,7 +3,7 @@
         "symbol": "GNOLAND",
         "name": "GNO.LAND",
         "description": "The official website of Gnoland",
-        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/explore/gnoland.svg",
+        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/apps/gnoland.svg",
         "link": "https://gno.land",
         "display": true,
         "order": 1
@@ -12,7 +12,7 @@
         "symbol": "GNOSCAN",
         "name": "Gnoscan",
         "description": "The first Gnoland blockchain explorer",
-        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/explore/gnoscan.svg",
+        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/apps/gnoscan.svg",
         "link": "https://gnoscan.io",
         "display": true,
         "order": 2
@@ -21,7 +21,7 @@
         "symbol": "GNOTOOLS",
         "name": "Gnotools",
         "description": "A frontend for Gnoland Boards",
-        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/explore/gnotools.svg",
+        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/apps/gnotools.svg",
         "link": "https://app.gno.tools",
         "display": true,
         "order": 3
@@ -30,7 +30,7 @@
         "symbol": "TERITORI",
         "name": "Teritori",
         "description": "A hub for web3 communities",
-        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/explore/teritori.svg",
+        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/apps/teritori.svg",
         "link": "https://teritori.com",
         "display": true,
         "order": 4
@@ -39,7 +39,7 @@
         "symbol": "GNOSPACE",
         "name": "Gnoland Space",
         "description": "A community-driven Gnoland wiki",
-        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/explore/gnospace.svg",
+        "logo": "https://raw.githubusercontent.com/onbloc/adena-resource/main/images/apps/gnospace.svg",
         "link": "https://gnoland.space",
         "display": true,
         "order": 5
